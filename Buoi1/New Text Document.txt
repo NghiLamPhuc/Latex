@@ -1,0 +1,10 @@
+
+@article{pham2018learning,
+  title={Learning multiple layers of knowledge representation for aspect based sentiment analysis},
+  author={Pham, Duc-Hong and Le, Anh-Cuong},
+  journal={Data \& Knowledge Engineering},
+  volume={114},
+  pages={26--39},
+  year={2018},
+  publisher={Elsevier}
+}
